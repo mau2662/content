@@ -19,7 +19,7 @@ Using all your algorithmic knowledge (loops, conditionals, etc.), you can now le
 ## Combining HTML+CSS+JavaScript
 ***
 
-With JavaScript, you are now able to update the HTML or the CSS of your website whenever you want.
+With JavaScript, you are now able to update the HTML or the CSS of your website whenever you want
 
 For example:
 
